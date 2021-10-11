@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @subodhdeo
-- 👀 I’m interested in Machine Learning 
+- 👀 I’m interested in Machine Learning, Augmented Reality, Deep Learning 
 - 🌱 I’m currently learning Federated Learning
 - 📫 How to reach me www.subodhdeolekar.in
 
