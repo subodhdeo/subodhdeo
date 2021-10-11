@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @subodhdeo
 - 👀 I’m interested in Machine Learning 
-- 🌱 I’m currently learning Deep Learning
-- 📫 How to reach me www.subodhdeolekar.com
+- 🌱 I’m currently learning Federated Learning
+- 📫 How to reach me www.subodhdeolekar.in
 
 <!---
 subodhdeo/subodhdeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
