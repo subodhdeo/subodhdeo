@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @subodhdeo
 - 👀 I’m interested in Machine Learning, Augmented Reality, Deep Learning 
-- 🌱 I’m currently learning Federated Learning
+- 🌱 I’m currently learning Generative AI
 - 📫 How to reach me https://subodhdeo.github.io/subodhdeolekar/
 
 <!---
